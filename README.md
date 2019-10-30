@@ -8,6 +8,7 @@ Set-AzureADUser -ObjectID $UID -Department $Dept -PhysicalDeliveryOfficeName $Lo
 Requires
 -----------------------------------
 AzureAD Powershell Module
+CSV file with UPN/ObjectID and user attributes
 
 Notes
 ----------------------------------
