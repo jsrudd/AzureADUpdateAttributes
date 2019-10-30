@@ -1,4 +1,4 @@
-Bulk Update Attributes in AzureAD
+*Bulk Update Attributes in AzureAD*
 
 Usage
 Set-AzureADUser -ObjectID $UID -Department $Dept -PhysicalDeliveryOfficeName $Loc
