@@ -7,4 +7,4 @@ Requires
 AzureAD Powershell Module
 
 Notes
-Import-Module AzureAD and Connect-AzureAD can be removed if not required. 
+Import-Module AzureAD and Connect-AzureAD can be removed if not required.
